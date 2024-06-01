@@ -1,3 +1,11 @@
+## How to use this Repo:
+
+1. CLone this Repo.
+
+2. Use Unity Hub to open this.
+
+3. Use Visual Studio to open the CODE
+
 ## Key Features
 
 **INVISIBLE WALLET (Smart Wallet)**
